@@ -16,22 +16,22 @@
 
 ## Mantra
 ```
-*   On/Off Duty: `aduty`
-*   Buka Radio: `/radio`
-*   Menjarakan Tawanan: `/jail "userID" "waktu"`
-*   `/radar`
+*   On/Off Duty: aduty
+*   Buka Radio: /radio
+*   Menjarakan Tawanan: /jail "userID" "waktu"
+*   /radar
 ```
 
 
 ## Emote
 ```
-*   Layer Film: `cinematic`
-*   Mediasi: `meditate`
-*   Tangan Sombong: `crossarms3`
-*   Tangan Dikepala Belakang: `surrander`
-*   Angkat Tangan: `handsup`
-*   Tangan Dibelakang: `airforce3` atau `valet3`
-*   Jongkok: `kneel2`
-*   Peluk: `hug`
-*   Kerja Otomatis: `autoharvest`
+*   Layer Film: cinematic
+*   Mediasi: meditate
+*   Tangan Sombong: crossarms3
+*   Tangan Dikepala Belakang: surrander
+*   Angkat Tangan: handsup
+*   Tangan Dibelakang: airforce3 atau valet3
+*   Jongkok: kneel2
+*   Peluk: hug
+*   Kerja Otomatis: autoharvest
 ```
