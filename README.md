@@ -19,7 +19,7 @@
 *   `/radar`
 
 ## Emote
-
+```
 *   Layer Film: `cinematic`
 *   Mediasi: `meditate`
 *   Tangan Sombong: `crossarms3`
@@ -29,3 +29,4 @@
 *   Jongkok: `kneel2`
 *   Peluk: `hug`
 *   Kerja Otomatis: `autoharvest`
+```
