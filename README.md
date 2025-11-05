@@ -1,33 +1,30 @@
-"# LSPD-RehanGosep" 
-Forum SASP : 
-Departement Rooster : https://sasp-motionliferp.com/viewtopic.php?t=2
-LSPD Handbook : https://sasp-motionliferp.com/viewtopic.php?style=2&t=4
-Patrol Report Rookie : https://sasp-motionliferp.com/viewforum.php?style=2&f=72
+# LSPD-RehanGosep
 
+## Forum SASP
 
-Respon Radio : 
-On Duty : This is rookie rehan gosep reporting 10-41 at alta station
-Start Patroli : Dispatch, this is 73514 timing up with {badge number partner}, start of watch under those charger {tipe kendaraan} clearing all from 10-20 {dari mana} and now checking callsign to {badge number tujuan di lokasi}
+*   Departement Rooster: [https://sasp-motionliferp.com/viewtopic.php?t=2](https://sasp-motionliferp.com/viewtopic.php?t=2)
+*   LSPD Handbook: [https://sasp-motionliferp.com/viewtopic.php?style=2&t=4](https://sasp-motionliferp.com/viewtopic.php?style=2&t=4)
+*   Patrol Report Rookie: [https://sasp-motionliferp.com/viewforum.php?style=2&f=72](https://sasp-motionliferp.com/viewforum.php?style=2&f=72)
 
+## Respon Radio
 
-Mantra : 
-- On/Off Duty : aduty
-- Buka Radio : /radio
-- menjarakan tawanan : /jail "userID" "waktu" 
-- /radar
+*   **On Duty**: This is rookie rehan gosep reporting 10-41 at alta station
+*   **Start Patroli**: Dispatch, this is 73514 timing up with {badge number partner}, start of watch under those charger {tipe kendaraan} clearing all from 10-20 {dari mana} and now checking callsign to {badge number tujuan di lokasi}
 
+## Mantra
 
-Emote : 
-layer film : cinematic
-mediasi : meditate
-tangan sombong : crossarms3
-tangan dikepala belakang : surrander
-angkat tangan : handsup
-tangan dibelakang : airforce3 atau valet3
-jongkok : kneel2
+*   On/Off Duty: `aduty`
+*   Buka Radio: `/radio`
+*   Menjarakan Tawanan: `/jail "userID" "waktu"`
+*   `/radar`
 
-kerja otomatis : autoharvest
+## Emote
 
-
-
-
+*   Layer Film: `cinematic`
+*   Mediasi: `meditate`
+*   Tangan Sombong: `crossarms3`
+*   Tangan Dikepala Belakang: `surrander`
+*   Angkat Tangan: `handsup`
+*   Tangan Dibelakang: `airforce3` atau `valet3`
+*   Jongkok: `kneel2`
+*   Kerja Otomatis: `autoharvest`
