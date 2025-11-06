@@ -40,9 +40,9 @@ kamu berhak untuk diam, apapun yang kamu katakan dapat digunakan untuk melawan a
 
 
 ## Respon Kode
-*   Kode 1  : nonDarurat - sirene OFF dan rotator OFF
-*   Kode 2  : Merespons Darurat - sirene OFF dan rotator ON
-*   Kode 3  : Menanggapi Darurat - sirene On dan rotator ON
+*   Kode 1  : nonDarurat - sirene OFF dan lampu OFF
+*   Kode 2  : Merespons Darurat - sirene OFF dan lampu ON
+*   Kode 3  : Menanggapi Darurat - sirene On dan lampu ON
 *   Kode 4  : Situasi terkendali, tanpa bantuan
 *   Kode 5  : Detektif sedang diselidiki
 *   Kode 6  : Menyelidiki lokasi kejadian
