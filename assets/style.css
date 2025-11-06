@@ -35,93 +35,7 @@ body {
             padding: 50px; /* Generous padding */
             border-radius: 12px; /* Slightly more rounded */
             box-shadow: 0 18px 36px rgba(0, 0, 0, 0.6); /* Deeper, softer shadow */
-            max-width: 600px; /* Balanced width */
-            width: 100%;
-            box-sizing: border-box;
-            border: 1px solid rgba(255, 255, 255, 0.15); /* More visible subtle border */
-            transform: translateY(0); /* Ensure no initial transform */
-            transition: transform 0.4s ease-out, box-shadow 0.4s ease-out; /* Smooth transition for container */
-        }
-        .hero .container:hover {
-            transform: translateY(-5px); /* Lift effect on hover */
-            box-shadow: 0 25px 50px rgba(0, 0, 0, 0.8); /* Even deeper shadow on hover */
-        }
-        h1 {
-            color: #e74c3c; /* Retain red accent */
-            font-size: 3.2em; /* Balanced heading size */
-            margin-bottom: 20px;
-            font-weight: 700;
-            text-shadow: 2px 2px 5px rgba(0,0,0,0.4); /* Refined text shadow */
-            letter-spacing: 1.5px; /* Adjusted letter spacing */
-        }
-        p {
-            font-size: 1.2em; /* Balanced paragraph size */
-            margin-bottom: 30px;
-            color: #c0c0c0; /* Softer grey for paragraphs */
-        }
-
-        .button {
-            display: inline-block;
-            background-color: #e74c3c; /* Retain red accent */
-            color: white;
-            padding: 14px 32px; /* Refined button size */
-            border-radius: 8px; /* Slightly more rounded button */
-            text-decoration: none;
-            margin-top: 25px; /* Adjusted margin */
-            transition: all 0.3s ease;
-            font-weight: 600;
-            letter-spacing: 0.8px; /* Adjusted letter spacing */
-            box-shadow: 0 6px 18px rgba(0,0,0,0.3); /* Refined button shadow */
-            border: none;
-            cursor: pointer;
-            text-transform: uppercase;
-        }
-
-        .button:hover {
-            background-color: #c0392b;
-            transform: translateY(-4px); /* Refined lift effect */
-            box-shadow: 0 10px 25px rgba(0,0,0,0.5);
-        }
-
-        /* Tab Styles */
-body {
-            font-family: 'Poppins', sans-serif;
-            margin: 0;
-            background-color: #0f0f0f; /* Even darker background */
-            color: #e0e0e0; /* Slightly softer light text color */
-            text-align: center;
-            line-height: 1.7; /* Improved readability */
-        }
-        .hero {
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            min-height: 100vh;
-            background: linear-gradient(135deg, #1a2a3a 0%, #0a1a2a 100%); /* Deeper, more sophisticated gradient */
-            color: white;
-            padding: 30px; /* Increased padding for hero */
-            position: relative;
-            overflow: hidden;
-        }
-        .hero::before {
-            content: '';
-            position: absolute;
-            top: 0;
-            left: 0;
-            right: 0;
-            bottom: 0;
-            background: rgba(0,0,0,0.4); /* Slightly darker overlay */
-            z-index: 1;
-        }
-        .hero .container {
-            position: relative;
-            z-index: 2;
-            background-color: rgba(255, 255, 255, 0.08); /* Very subtle transparent white */
-            backdrop-filter: blur(12px); /* More pronounced frosted glass */
-            padding: 50px; /* Generous padding */
-            border-radius: 12px; /* Slightly more rounded */
-            box-shadow: 0 18px 36px rgba(0, 0, 0, 0.6); /* Deeper, softer shadow */
-            max-width: 900px; /* Wider container for dashboard */
+            max-width: 600px; /* Balanced width for index.php */
             width: 100%;
             box-sizing: border-box;
             border: 1px solid rgba(255, 255, 255, 0.15); /* More visible subtle border */
@@ -316,4 +230,61 @@ body {
         .ten-codes-two-columns table {
             flex: 1; /* Allow tables to grow and shrink */
             min-width: 300px; /* Minimum width for each table before wrapping */
+        }
+
+        /* Specific styles for index.php headings */
+        .main-title {
+            font-size: 3.8em; /* Larger for main title */
+            margin-bottom: 5px;
+            line-height: 1.1;
+        }
+
+        .sub-title {
+            font-size: 2.5em; /* Medium for sub-title */
+            margin-bottom: 5px;
+            line-height: 1.1;
+        }
+
+        .badge-number {
+            font-size: 1.8em; /* Smaller for badge number */
+            margin-bottom: 30px; /* More space below badge number */
+            color: #e0e0e0; /* Slightly softer color */
+            font-weight: 500;
+        }
+
+        .current-datetime {
+            font-size: 1em;
+            color: #a0a0a0; /* Softer color for date/time */
+            margin-top: 20px;
+            margin-bottom: 0;
+        }
+
+        /* Adjust general h1 to be less impactful if not using specific classes */
+        h1 {
+            font-size: 2.5em; /* Default h1 size, will be overridden by specific classes */
+            margin-bottom: 15px;
+        }
+
+        /* Adjust general p to be less impactful if not using specific classes */
+        p {
+            font-size: 1.1em;
+            margin-bottom: 20px;
+        }
+
+        /* Ensure the hero container for index.php is well-defined */
+        .hero .container {
+            max-width: 600px; /* Keep this for index.php */
+        }
+
+        /* Media query for smaller screens to adjust font sizes */
+        @media (max-width: 768px) {
+            .main-title {
+                font-size: 2.8em;
+            }
+            .sub-title {
+                font-size: 2em;
+            }
+            .badge-number {
+                font-size: 1.5em;
+            }
         }
