@@ -193,29 +193,29 @@ Kamu berhak untuk diam, apapun yang kamu katakan dapat digunakan untuk melawan a
 
 | Acronym | Meaning                        |
 | ------- | ------------------------------ |
-| ADW     | Assault with a Deadly Weapon.  |
-| ALS     | Advanced Life Support.         |
-| ASAP    | As Soon As Possible.           |
-| BLS     | Basic Life Support.            |
-| BOLO    | Be On the Look Out.            |
-| CCW     | Carrying a Concealed Weapon.   |
-| DOA     | Dead On Arrival.               |
-| DOB     | Date of Birth.                 |
-| DOC     | Department of Corrections.     |
-| DUI     | Driving Under the Influence.   |
-| EMS     | Emergency Medical Services.    |
-| FTO     | Field Training Officer.        |
-| GOV     | Government.                    |
-| GSW     | Gun Shot Wound.                |
-| LVC     | Lost Visual Contact            |
-| LEO     | Law Enforcement Officer.       |
-| LOS     | Length of Service.             |
-| MDT     | Mobile Data Terminal.          |
-| PIT     | Pursuit Immobilization Technique. |
-| POV     | Privately-Owned Vehicle.       |
-| R&U     | Read and Understand.           |
-| SIW     | Standard-Issue Weapon.         |
-| VCB     | Visual Contact Broken          |
+| ADW     | Assault with a Deadly Weapon (serangan dengan senjata mematikan)  |
+| ALS     | Advanced Life Support (bantuan hidup lanjutan)         |
+| ASAP    | As Soon As Possible (sesegera mungkin)           |
+| BLS     | Basic Life Support (bantuan hidup dasar)            |
+| BOLO    | Be On the Look Out (waspadalah)            |
+| CCW     | Carrying a Concealed Weapon (membawa senjata tersembunyi)   |
+| DOA     | Dead On Arrival (meninggal saat tiba)               |
+| DOB     | Date of Birth (tanggal lahir)                 |
+| DOC     | Department of Corrections (departement pemasyarakatan)     |
+| DUI     | Driving Under the Influence (mengemudi di bawah pengarub alkohol)   |
+| EMS     | Emergency Medical Services (layanan medis darurat)    |
+| FTO     | Field Training Officer (petugas pelatihan lapangan)        |
+| GOV     | Government (pemerintah)                    |
+| GSW     | Gun Shot Wound (luka tembak senjata)                |
+| LVC     | Lost Visual Contact (hilang kontak visual)            |
+| LEO     | Law Enforcement Officer (petugas penegak hukum)       |
+| LOS     | Length of Service (lama layanan)             |
+| MDT     | Mobile Data Terminal terminal data seluler          |
+| PIT     | Pursuit Immobilization Technique (teknik imobilisasi pengejaran) |
+| POV     | Privately-Owned Vehicle (kendaraan pribadi)       |
+| R&U     | Read and Understand (baca dan pahami)           |
+| SIW     | Standard-Issue Weapon (senjata standar)         |
+| VCB     | Visual Contact Broken (kontak visual putus)         |
 
 ---
 
