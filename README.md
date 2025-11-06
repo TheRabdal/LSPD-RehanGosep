@@ -125,7 +125,7 @@ Kamu berhak untuk diam, apapun yang kamu katakan dapat digunakan untuk melawan a
 
 *   **Solo (LINCOLN)**: 73-Lincoln-14
 *   **Partner (ADAM)**: 73-Adam-14
-*   - penggunaan : 73 adalah kode departement station, dan 14 kode terakhir callsign
+    **penggunaan** : 73 adalah kode departement station, dan 14 kode terakhir callsign
 
 ---
 
