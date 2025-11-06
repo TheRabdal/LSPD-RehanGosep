@@ -74,7 +74,15 @@ kamu berhak untuk diam, apapun yang kamu katakan dapat digunakan untuk melawan a
 *   **On Duty**                 : This is rookie rehan gosep reporting 10-41 at alta station
 *   **Start Patroli**           : This is 73 Adam 514. We are 10-8 and ready for future update
 *   **Respons Situasi**         : Dispatch, this is 73514 timing up with {badge number partner}, start of watch under those charger {tipe kendaraan} clearing all from 10-20 {dari mana} and now checking callsign to {badge number dilokasi}
-*   **Pengejaran Narkotika**    : 73 adam 514 no doing 10-57 on suspect with 10-60 {tipe kendaraan} with {warna kendaraan} color activity 10-34 suspect at {lokasi}. suspect still on {lokasi}, heading to {tujuan lokasi} maybe
+*   **Pengejaran Narkotika**    : 73 adam 514 no doing 10-57 on suspect with 10-60 {tipe kendaraan} with {warna kendaraan} color activity 10-34 suspect at {lokasi}. 
+*   - lanjutan > suspect still on {lokasi}, heading to {tujuan lokasi} maybe
+
+
+## Update Structure
+*   **Action (Tindakan)**   : contoh: heading / belok kiri
+*   **Arah mata angin** : North / South / East / West
+*   **Nama jalan**  : lokasi atau jalur
+*   **Informasi tambahan (opsional)**   : landmark, lalu lintas, deskripsi suspect
 
 
 ## Sistem Callsign
@@ -91,6 +99,12 @@ kamu berhak untuk diam, apapun yang kamu katakan dapat digunakan untuk melawan a
 *   ASD = AIR
 *   ASD High Command = AIR-STAFF
 *   Detective = GEORGE
+
+
+## Tanda Panggilan
+*   Solo (LINCOLN)  : 73-Lincoln-14
+*   Partner (ADAM)  : 73-Adam-14
+*   - penggunaan : 73 adalah kode departement station, dan 14 kode terakhir callsign
 
 
 ## Kode Respon
