@@ -24,8 +24,8 @@ kamu berhak untuk diam, apapun yang kamu katakan dapat digunakan untuk melawan a
 ## Respon Radio
 *   **On Duty**: This is rookie rehan gosep reporting 10-41 at alta station
 *   **Start Patroli**: Dispatch, this is 73514 timing up with {badge number partner}, start of watch under those charger {tipe kendaraan} clearing all from 10-20 {dari mana} and now checking callsign to {badge number tujuan yang di lokasi}
-this is 73 adam 509 we are doing 10-8 mono simple are redy for any situation 
-UPDATE MAU NGAPAIN_MAU NGAPAIN DIMANA_MINTA DIAJAK PATROL
+*   **Start Patroli**: this is 73 adam 509 we are doing 10-8 mono simple are redy for any situation(future update)
+                        This is 73 Adam 509. We are 10-8 and ready for any situation
 
 
 ## Mantra
