@@ -53,7 +53,7 @@ kamu berhak untuk diam, apapun yang kamu katakan dapat digunakan untuk melawan a
 *   Layer Film          : `cinematic`
 *   Mediasi             : `meditate`
 *   Tangan Sombong      : `crossarms3`
-*   Tangan Dikepala Belakang: `surrander`
+*   Tangan Dikepala     : `surrander`
 *   Angkat Tangan       : `handsup`
 *   Tangan Dibelakang   : `airforce3` atau `valet3`
 *   Jongkok             : `kneel2`
