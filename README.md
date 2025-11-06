@@ -40,6 +40,7 @@ kamu berhak untuk diam, apapun yang kamu katakan dapat digunakan untuk melawan a
 
 
 ## Respon Kode
+*   Kode 0  : Situasi Darurat!
 *   Kode 1  : nonDarurat - sirene OFF dan lampu OFF
 *   Kode 2  : Merespons Darurat - sirene OFF dan lampu ON
 *   Kode 3  : Menanggapi Darurat - sirene On dan lampu ON
