@@ -1,6 +1,5 @@
 # LSPD-RehanGosep
 
-
 ## Forum SASP
 *   LSPD Handbook           : [https://sasp-motionliferp.com/viewtopic.php?style=2&t=4](https://sasp-motionliferp.com/viewtopic.php?style=2&t=4)
 *   Departement Rooster     : [https://sasp-motionliferp.com/viewtopic.php?t=2](https://sasp-motionliferp.com/viewtopic.php?t=2)
@@ -78,6 +77,17 @@ kamu berhak untuk diam, apapun yang kamu katakan dapat digunakan untuk melawan a
 *   **Pengejaran Narkotika**    : 73 adam 514 no doing 10-57 on suspect with 10-60 {tipe kendaraan} with {warna kendaraan} color activity 10-34 suspect at {lokasi}. suspect still on {lokasi}, heading to {tujuan lokasi} maybe
 
 
+## Respon Kode
+*   Kode 0  : Situasi Sangat Darurat!!!
+*   Kode 1  : nonDarurat - sirene OFF dan lampu OFF
+*   Kode 2  : Merespons Darurat - sirene OFF dan lampu ON
+*   Kode 3  : Menanggapi Darurat - sirene On dan lampu ON
+*   Kode 4  : Situasi terkendali, tanpa bantuan
+*   Kode 5  : Detektif sedang diselidiki
+*   Kode 6  : Menyelidiki lokasi kejadian
+*   Kode 7  : Istirahat
+
+
 ## Mantra
 *   On/Off Duty         : `/aduty`
 *   Buka Radio          : `/radio`
@@ -88,17 +98,6 @@ kamu berhak untuk diam, apapun yang kamu katakan dapat digunakan untuk melawan a
 *   Menyalakan Radar    : `/radar`
 *   - Didalam mobil otot U untuk melihat dispatch
 *   - Didalam mobil otot I untuk memindahkan
-
-
-## Respon Kode
-*   Kode 0  : Situasi Darurat!
-*   Kode 1  : nonDarurat - sirene OFF dan lampu OFF
-*   Kode 2  : Merespons Darurat - sirene OFF dan lampu ON
-*   Kode 3  : Menanggapi Darurat - sirene On dan lampu ON
-*   Kode 4  : Situasi terkendali, tanpa bantuan
-*   Kode 5  : Detektif sedang diselidiki
-*   Kode 6  : Menyelidiki lokasi kejadian
-*   Kode 7  : Istirahat
 
 
 ## Emote
