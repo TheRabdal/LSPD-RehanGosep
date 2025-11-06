@@ -1,6 +1,14 @@
 # LSPD-RehanGosep
 
 
+## Forum SASP
+*   LSPD Handbook           : [https://sasp-motionliferp.com/viewtopic.php?style=2&t=4](https://sasp-motionliferp.com/viewtopic.php?style=2&t=4)
+*   Departement Rooster     : [https://sasp-motionliferp.com/viewtopic.php?t=2](https://sasp-motionliferp.com/viewtopic.php?t=2)
+*   Patrol Report Rookie    : [https://sasp-motionliferp.com/viewforum.php?style=2&f=72](https://sasp-motionliferp.com/viewforum.php?style=2&f=72)
+*   Absence Notic           : [https://sasp-motionliferp.com/viewforum.php?f=76](https://sasp-motionliferp.com/viewforum.php?f=76)
+*   Warning Point           : [https://sasp-motionliferp.com/viewtopic.php?t=1456](https://sasp-motionliferp.com/viewtopic.php?t=1456)
+
+
 ## Miranda Rights
 **English**
 ```
@@ -12,12 +20,55 @@ kamu berhak untuk diam, apapun yang kamu katakan dapat digunakan untuk melawan a
 ```
 
 
-## Forum SASP
-*   LSPD Handbook           : [https://sasp-motionliferp.com/viewtopic.php?style=2&t=4](https://sasp-motionliferp.com/viewtopic.php?style=2&t=4)
-*   Departement Rooster     : [https://sasp-motionliferp.com/viewtopic.php?t=2](https://sasp-motionliferp.com/viewtopic.php?t=2)
-*   Patrol Report Rookie    : [https://sasp-motionliferp.com/viewforum.php?style=2&f=72](https://sasp-motionliferp.com/viewforum.php?style=2&f=72)
-*   Absence Notic           : [https://sasp-motionliferp.com/viewforum.php?f=76](https://sasp-motionliferp.com/viewforum.php?f=76)
-*   Warning Point           : [https://sasp-motionliferp.com/viewtopic.php?t=1456](https://sasp-motionliferp.com/viewtopic.php?t=1456)
+## Ten Codes
+> 10-1: Temui saya di__
+> 10-2: Sinyal bagus
+> 10-3: Hentikan Transmisi
+> 10-4: Roger That (OK)
+> 10-7: Tidak Berfungsi
+> 10-8: Berfungsi
+> 10-9: Ulangi
+> 10-10: Perkelahian Sedang Berlangsung
+> 10-12: Siaga
+> 10-13A: Petugas Turun (Panggilan Darurat)
+> 10-13B: Petugas Turun (Panggilan Non Darurat)
+> 10-14: Ems Turun
+> 10-18: Cepat
+> 10-20: Lokasi
+> 10-22: Batal
+> 10-23: Tiba di lokasi ...
+> 10-28: Plat Informasi
+> 10-29: Memeriksa Catatan Kriminal
+> 10-31a: Kejahatan sedang berlangsung (perampokan rumah)
+> 10-31b: Kejahatan Sedang Berlangsung (Perampokan Toko)
+> 10-32: Pria dengan Senjata Api
+> 10-34: Perilaku Mencurigakan (Narkotika)
+> 10-37: (Investigasi) Kendaraan Mencurigakan
+> 10-38: Menghentikan Kendaraan Mencurigakan (Kejahatan)
+> 10-41: Bertugas
+> 10-42: Tidak Bertugas
+> 10-45: Perburuan Ilegal
+> 10-47: Orang yang Terluka
+> 10-50: Kecelakaan
+> 10-52: EMS Dibutuhkan
+> 10-55: Penghentian Lalu Lintas
+> 10-57: Pengejaran Sedang Berlangsung
+> 10-60: Deskripsi Kendaraan
+> 10-61: Deskripsi Tersangka
+> 10-70: Kebakaran Sedang Berlangsung
+> 10-71: Tembakan Dilepaskan
+> 10-74: Negatif
+> 10-76: Dalam Perjalanan__
+> 10-77: Butuh Bantuan (Bukan keadaan darurat)
+> 10-78: Butuh Bantuan (Darurat)
+> 10-80: Petugas dalam Bahaya, tidak dapat merespons
+> 10-89: Ancaman Bom
+> 10-90: Perampokan Sedang Berlangsung (Bank/Permata)
+> 10-94: Balapan Mobil Sedang Berlangsung
+> 10-95: Tahanan/Subjek dalam Tahanan
+> 10-97: Akses tidak sah
+> 10-98: Pembobolan Penjara
+> 10-99: Pembersihan
 
 
 ## Respon Radio
