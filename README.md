@@ -15,7 +15,7 @@ You have the right to remain silent. Anything you say can and will be used again
 ```
 **Indonesia**
 ```
-kamu berhak untuk diam, apapun yang kamu katakan dapat digunakan untuk melawan anda dan dibawa ke pengadilan. Anda berhak untuk menunjuk pengacara. jika tidak ada maka kami akan menentukan seorang pengacara untuk anda.
+Kamu berhak untuk diam, apapun yang kamu katakan dapat digunakan untuk melawan anda dan dibawa ke pengadilan. Anda berhak untuk menunjuk pengacara. jika tidak ada maka kami akan menentukan seorang pengacara untuk anda.
 ```
 
 
