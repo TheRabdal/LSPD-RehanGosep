@@ -90,6 +90,9 @@ Kamu berhak untuk diam, apapun yang kamu katakan dapat digunakan untuk melawan a
 *   **Pengejaran Narkotika**: 73 adam 514 no doing 10-57 on suspect with 10-60 {tipe kendaraan} with {warna kendaraan} color activity 10-34 suspect at {lokasi}.
 *   - lanjutan > suspect still on {lokasi}, heading to {tujuan lokasi} maybe
 
+*   **Dateng ke county** : Dispatch, this is ... reporting back to county area after from municipal and ready any situation
+*   **Meninggalkan county** : Dispatch, this is ... reporting back to municipal area after from county permission to leave the area
+
 ---
 
 ## Update Structure
